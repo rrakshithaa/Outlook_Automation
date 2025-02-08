@@ -1,4 +1,3 @@
-# Mail_automation
 # Outlook Mail Automation Project
 
 ## Project Description
