@@ -40,7 +40,7 @@ pip install pandas openpyxl pywin32 pdfplumber python-docx
 ## Project Setup
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/rrakshithaa/Outlook_Automation.git
    ```
 2. Navigate to the project directory:
    ```bash
